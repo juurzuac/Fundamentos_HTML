@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Vida Digital | Educación</title>
+  </head>
+  <body>
+    <header>
+      <svg width="0" height="0">
+          <img src="images/icon.svg" alt="logo">
+      </svg>
+      <h1>Hoja de vida</h1>
+      <h2>Juan Manuel Urzua Chavez</h2>
+      <h3>17/04/1994, Santiago de Chile</h3>
+    </header>
+    <nav>
+      <a href="index.html">Inicio</a>
+      |
+      <a href="educacion.html">Educacion</a>
+      |
+      <a href="experiencia.html">Experiencia</a>
+    </nav>
+    <section>
+      <h2>Educación</h2>
+      <article>
+        <table border="1" cellspacing=0>
+          <thead>
+            <th>Año</th>
+            <th>Institución</th>
+            <th>Lugar</th>
+            <th>¿Culminó?</th>
+          </thead>
+          <tbody>
+            <tr>
+              <td>2017</td>
+              <td>F. Economía y Negocios Universidad de Chile</td>
+              <td>Santiago, Chile</td>
+              <td>Completo</td>
+            </tr>
+            <tr>
+              <td>2016</td>
+              <td>Universidad Tecnológica de Chile INACAP</td>
+              <td>Santiago, Chile</td>
+              <td>Incompleto</td>
+            </tr>
+            <tr>
+              <td>2013</td>
+              <td>Centro Formación Técnica INACAP, Santiago</td>
+              <td>Santiago, Chile</td>
+              <td>Completo</td>
+            </tr>
+          </tbody>
+        </table>
+        <form>
+          <h1>Agregar estudios</h1>
+          <label for="años">Año: </label>
+          <select name="años">
+            <option value="2019">2019</option>
+            <option value="2018">2018</option>
+            <option value="2017">2017</option>
+            <option value="2016">2016</option>
+            <option value="2015">2015</option>
+            <option value="2014">2014</option>
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+          </select>
+          <br><br>
+          <label for="inst">Institución</label>
+          <input type="text" name="inst" value="" required>
+          <br><br>
+          <label for="lugar">Lugar</label>
+          <textarea name="lugar" rows="2" cols="25"></textarea>
+          <br><br>
+          <input type="submit" name="Enviar" value="Enviar">
+        </form>
+      </article>
+    </section>
+    <footer>
+      <p>juanm.urzua@gmail.com | +569 7575 7669 | El Macizo Oriente #3614, Puente Alto, Chile</p>
+    </footer>
+  </body>
+</html>

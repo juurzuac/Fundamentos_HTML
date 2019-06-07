@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="130" height="65" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffffff" height="60" id="svg_7" opacity="" stroke="#2d132c" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" width="120" x="4" y="1"/>
+  <text fill="#2d132c" font-family="Sans-serif" font-size="35" font-style="normal" font-weight="bold" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" x="65" xml:space="preserve" y="45">JMU</text>
+  <rect fill="#007f7f" height="7" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="7" x="11" y="9"/>
+  <rect fill="#003f7f" height="7" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="7" x="19" y="9"/>
+  <rect fill="#007fff" height="7" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="7" x="11" y="17"/>
+  <rect fill="#00007f" height="7" id="svg_12" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="7" x="19" y="17"/>
+ </g>
+</svg>
